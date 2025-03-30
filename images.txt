@@ -9,4 +9,4 @@ wangbinxingkong/fast
 nacos/nacos-server
 redis
 mysql
-elasticsearch
+elasticsearch/fast
